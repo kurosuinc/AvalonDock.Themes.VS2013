@@ -76,7 +76,6 @@
     <Resource Include="Images\PinMenu_White.png" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
     <PackageReference Include="Xceed.Products.Wpf.Toolkit.AvalonDock" Version="4.0.20315.13310" />
   </ItemGroup>
 </Project>
